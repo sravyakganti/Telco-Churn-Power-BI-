@@ -1,4 +1,4 @@
-# Subscription Inteeligence Board -
+# Subscription Intelligence Board -
 Project Overview
 The Challenge: Company XYZ needs to retain recurring subscribers (Claude Pro/Team) to maximize ARR. The current churn rate is ~26%, but the "Why" is unclear.
 The Solution: A 3-page BI solution to identify "High Risk" cohorts and operationalize retention.
